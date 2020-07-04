@@ -1,0 +1,7 @@
+Installing Font-Awesome
+    https://github.com/FortAwesome/react-fontawesome
+    $ yarn add @fortawesome/fontawesome-svg-core
+    $ yarn add @fortawesome/free-solid-svg-icons
+    $ yarn add @fortawesome/react-fontawesome
+    OR
+    yarn add @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome
